@@ -2,4 +2,4 @@
 
 A set of Vue and Typescript challenges that I completed. Uses Pinia for state management and the vue-3-promise-dialog package for the second exercise.
 
-Link to project.
+[Link to project.](https://github.com/brenjamin/vue-typescript-fe-challenges)
